@@ -1,0 +1,140 @@
+{
+    "Mass" : {
+        "sun":1988500,
+        "mercury" : 0.330,
+        "venus" : 4.87,
+        "earth" : 5.97,
+        "moon" : 0.073,
+        "mars" : 0.642,
+        "jupiter" : 1898,
+        "saturn" : 568,
+        "uranus" : 86.8,
+        "neptune" : 102,
+        "pluto" : 0.0146
+        
+    },
+    "Diameter" : {
+        "sun":1391400,
+        "mercury" : 4879,
+        "venus" : 12104,
+        "earth" : 12756,
+        "moon" : 3475,
+        "mars" : 6792,
+        "jupiter" : 142984,
+        "saturn" : 120536,
+        "uranus" : 51118,
+        "neptune" : 49528,
+        "pluto" : 2370
+        
+    },
+    "Gravity" : {
+        "sun":274,
+        "mercury" : 3.7,
+        "venus" : 8.9,
+        "earth" : 9.8,
+        "moon" : 1.6,
+        "mars" : 3.7,
+        "jupiter" : 23.1,
+        "saturn" : 9.0,
+        "uranus" : 8.7,
+        "neptune" : 11.0,
+        "pluto" : 0.7
+
+    },
+    "Escape Velosity" : {
+        "sun":617,
+        "mercury" : 4.3,
+        "venus" : 10.4,
+        "earth" : 11.2,
+        "moon" : 2.4,
+        "mars" : 5.0,
+        "jupiter" :59.5,
+        "saturn" : 35.5,
+        "uranus" : 21.3,
+        "neptune" : 23.5,
+        "pluto" : 1.3
+    },
+    "Distance From Sun" : {
+        "mercury" : 57.9,
+        "venus" : 108.2,
+        "earth" : 149.6,
+        "mars" : 227.9,
+        "jupiter" :778.6,
+        "saturn" : 1433.5,
+        "uranus" : 2872.5,
+        "neptune" : 4495.1,
+        "pluto" : 5906.4
+    },
+    "Top 5 Elements" : {
+        "sun":{
+            "H||Hydrogen":73.9,
+            "He||Helium":25.1,
+            "C||Carbon":0.6,
+            "O||Oxygen":0.2,
+            "Ne||Neon":0.1
+        },
+        "mercury":{
+            "O||Oxygen":46,
+            "Mg||Magnesium":12,
+            "Al||Aluminium":7,
+            "Si||Silicon":26,
+            "Ca||Calcium":4
+        },
+        "venus":{
+            "C||Carbon":32,
+            "N||Nitrogen":3.5,
+            "O||Oxygen":64,
+            "S||Sulfur":0.007,
+            "Ar||Argon":0.015
+        },
+        "earth":{
+            "O||Oxygen":47,
+            "Al||Aluminium":8,
+            "Si||Silicon":31,
+            "Ca||Calcium":3,
+            "Fe||Iron":4
+        },
+        "moon":{
+            "O||Oxygen":42,
+            "Mg||Magnesium":6,
+            "Si||Silicon":21,
+            "Ca||Calcium":8,
+            "Fe||Iron":15
+        },
+        "mars":{
+            "O||Oxygen":43,
+            "Mg||Magnesium":5.5,
+            "Al||Aluminium":5.6,
+            "Si||Silicon":23,
+            "Fe||Iron":14
+        },
+        "jupiter":{
+            "H||Hydrogen":92.5,
+            "He||Helium":7.3,
+            "C||Carbon":0.1,
+            "N||Nitrogen":0.03,
+            "O||Oxygen":0.02
+        },
+        "saturn":{
+            "H||Hydrogen":90,
+            "He||Helium":10,
+            "C||Carbon":0.3,
+            "N||Nitrogen":0.01,
+            "O||Oxygen":0.3
+        },
+        "uranus":{
+            "H||Hydrogen":83.3,
+            "He||Helium":15,
+            "C||Carbon":1.7,
+            "N||Nitrogen":0.3,
+            "S||Sulfur":0.003
+        },
+        "neptune":{
+            "H||Hydrogen":78.7,
+            "He||Helium":5.5,
+            "C||Carbon":0.7,
+            "N||Nitrogen":0.2,
+            "O||Oxygen":15
+        }
+    }
+}

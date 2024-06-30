@@ -1,0 +1,52 @@
+{
+    "Sun": {
+        "Times Bigger" : 1,
+        "Type": "Yellow Dwarf",
+        "Distance From Earth": "8.31 Light Minutes"
+    },
+    "Sirius A": {
+        "Times Bigger" : 1.711,
+        "Type": "White Dwarf",
+        "Distance From Earth":"8.7 Light Years"
+    },
+    "Pollux": {
+        "Times Bigger" : 9.06,
+        "Type": "Orange Giant",
+        "Distance From Earth":"33.78 Light Years"
+    },
+    "Arcturus": {
+        "Times Bigger" : 25.4,
+        "Type": "Red Giant",
+        "Distance From Earth":"36.7 Light Years"
+    },
+    "Aldebaran": {
+        "Times Bigger" : 45.1,
+        "Type": "Red Giant",
+        "Distance From Earth":"65.3 Light Years"
+    },
+    "Rigel": {
+        "Times Bigger" : 78.9,
+        "Type": "Blue Super Giant",
+        "Distance From Earth":"863 Light Years"
+    },
+    "Pistol Star": {
+        "Times Bigger" : 420,
+        "Type": "Blue Hyper Giant",
+        "Distance From Earth":"25114 Light Years"
+    },
+    "Antares A": {
+        "Times Bigger" : 680,
+        "Type": "Red Super Giant",
+        "Distance From Earth":"550 Light Years"
+    },
+    "VY Canis Majoris": {
+        "Times Bigger" : 1420,
+        "Type": "Red Hyper Giant",
+        "Distance From Earth":"3820 Light Years"
+    },
+    "UY Scuti": {
+        "Times Bigger" : 1708,
+        "Type": "Red Super Giant",
+        "Distance From Earth":"9500 Light Years"
+    }
+}
